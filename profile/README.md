@@ -1,28 +1,17 @@
 # Hello, World! 👋
 
-Welcome to **Omelete Company's** organization on GitHub.
+Welcome to **Omelete Company's** organization on GitHub — where entertainment, technology and community come together.
 
-We connect entertainment, pop culture, technology, data and live experiences through digital products, internal tools and scalable solutions.
-
-🎬 **Brazilian entertainment & pop culture company**  
-Creating content, experiences and communities around movies, series, games, comics and fandom.
-
-🎮 **Events, experiences and fan communities**  
-Supporting major entertainment initiatives through technology, operations and data-driven solutions.
-
-💻 **Technology powering entertainment**  
-Building internal platforms, automations, integrations, dashboards and tools to improve how our teams work.
-
-📊 **Data, automation and intelligence**  
-Using data engineering, business intelligence and AI to support decision-making, operations and business growth.
-
-🚀 **Digital products and experiments**  
-Exploring new ways to connect brands, creators, fans and communities.
+🎬 Pop culture, entertainment and fandom at the center of everything we do.  
+🎮 Live events and digital experiences connecting brands, creators and fans.  
+💻 Internal tools, automations and integrations powering our operations.  
+📊 Data, BI and AI helping our teams make smarter decisions.  
+🚀 Experiments, platforms and products built for the future of entertainment.
 
 ## Omelete Company Public Repository Disclosure
 
-The public repositories in this organization may include internal tools, experiments, integrations, prototypes, documentation or open initiatives developed by Omelete Company teams.
+Content in these repositories may include code, documentation, prototypes, internal tools or experimental projects developed by Omelete Company.
 
-Unless explicitly stated otherwise in each repository, the content is provided as-is and may not represent an official product, service or supported solution from Omelete Company.
+Unless otherwise specified, public repositories are provided as-is, without any obligation of maintenance, updates, enhancements or support.
 
-Please refer to each repository's README and license for specific usage, contribution and support information.
+Please check each repository for its own license, usage instructions and contribution guidelines.
