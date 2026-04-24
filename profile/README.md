@@ -1,71 +1,28 @@
-# Omelete Company
+# Hello, World! 👋
 
-Bem-vindo ao perfil oficial da **Omelete Company** no GitHub.
+Welcome to **Omelete Company's** organization on GitHub.
 
-Somos uma empresa brasileira de mídia, entretenimento, cultura pop, tecnologia e eventos, responsável por conectar comunidades, marcas e fãs por meio de experiências, conteúdos e plataformas digitais.
+We connect entertainment, pop culture, technology, data and live experiences through digital products, internal tools and scalable solutions.
 
-## Sobre nós
+🎬 **Brazilian entertainment & pop culture company**  
+Creating content, experiences and communities around movies, series, games, comics and fandom.
 
-A Omelete Company atua em diferentes frentes do ecossistema de entretenimento, desenvolvendo projetos relacionados a:
+🎮 **Events, experiences and fan communities**  
+Supporting major entertainment initiatives through technology, operations and data-driven solutions.
 
-- Cultura pop
-- Games
-- Cinema e séries
-- Eventos e experiências ao vivo
-- Tecnologia
-- Dados e inteligência de negócio
-- Plataformas digitais
-- Automação de processos
+💻 **Technology powering entertainment**  
+Building internal platforms, automations, integrations, dashboards and tools to improve how our teams work.
 
-Nosso objetivo é criar soluções que apoiem a operação, análise, comunicação e evolução dos nossos produtos e eventos.
+📊 **Data, automation and intelligence**  
+Using data engineering, business intelligence and AI to support decision-making, operations and business growth.
 
-## O que você encontrará aqui
+🚀 **Digital products and experiments**  
+Exploring new ways to connect brands, creators, fans and communities.
 
-Este espaço reúne projetos, ferramentas e iniciativas tecnológicas desenvolvidas ou mantidas pela Omelete Company, incluindo:
+## Omelete Company Public Repository Disclosure
 
-- Aplicações internas
-- Automações
-- Integrações entre sistemas
-- Dashboards e soluções de dados
-- Projetos experimentais
-- Ferramentas para operação de eventos
-- Componentes e utilitários para times internos
+The public repositories in this organization may include internal tools, experiments, integrations, prototypes, documentation or open initiatives developed by Omelete Company teams.
 
-## Nossas marcas e iniciativas
+Unless explicitly stated otherwise in each repository, the content is provided as-is and may not represent an official product, service or supported solution from Omelete Company.
 
-A Omelete Company está presente em grandes projetos do mercado de entretenimento e cultura pop, conectando comunidades e marcas em experiências únicas.
-
-Algumas das nossas frentes incluem eventos, conteúdo digital, projetos editoriais, ativações de marca e soluções tecnológicas voltadas à operação e inteligência de negócios.
-
-## Tecnologia na Omelete Company
-
-Utilizamos tecnologia para melhorar processos, automatizar rotinas, integrar plataformas e transformar dados em decisões.
-
-Trabalhamos com soluções envolvendo:
-
-- Desenvolvimento web
-- Integrações via APIs
-- Automações
-- Engenharia de dados
-- Business Intelligence
-- Inteligência Artificial
-- Plataformas colaborativas
-- Sistemas internos
-
-## Contribuição
-
-A maior parte dos repositórios deste perfil é voltada para uso interno da Omelete Company.
-
-Quando houver projetos públicos ou abertos para colaboração, as instruções estarão disponíveis no README específico de cada repositório.
-
-## Contato
-
-Para saber mais sobre a Omelete Company, acesse nossos canais oficiais:
-
-- Site: https://www.omeletecompany.com
-- LinkedIn: https://www.linkedin.com/company/omelete-company
-
----
-
-**Omelete Company**  
-Conectando entretenimento, tecnologia, marcas e comunidades.
+Please refer to each repository's README and license for specific usage, contribution and support information.
